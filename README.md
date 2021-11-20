@@ -4,7 +4,7 @@ Built with React, supported by Redux Toolkit, and powered by RapidAPI, this app 
 The frontend layout was built using Ant Design, and is completely responsive for all devices. <br><br>
 The app contains a fair number of features, such as being able to get general crypto news at a glance, and filter for specific news of the top 100 ranked tokens, as well as being able to get all their info and display them using charts. Links related to each token as well as some info, if available, are also provided. <br><br>
 
-The app can be found in action at https://mithril-crypto-tracker.netlifyapp.com
+The app can be found in action at https://mithril-crypto-tracker.netlify.app
 
 ----
 
